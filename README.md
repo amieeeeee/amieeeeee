@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @amieeeeee
+- 👀 I’m interested in Human Computer Interaction
+- 🌱 I’m currently learning Rust, C++
+- 📫 How to reach me: Discord amie#2165
